@@ -1,0 +1,11 @@
+Model Information:
+* title:	Capurrrcino!
+* source:	https://sketchfab.com/3d-models/capurrrcino-878dc8b604264346afd49b976365444c
+* author:	The Vaudeville Horror Show (https://sketchfab.com/agarris8)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Capurrrcino!" (https://sketchfab.com/3d-models/capurrrcino-878dc8b604264346afd49b976365444c) by The Vaudeville Horror Show (https://sketchfab.com/agarris8) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

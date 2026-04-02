@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2875708587949133741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3751732937228118396}
+  - component: {fileID: 8366359278979378342}
+  m_Layer: 0
+  m_Name: ItemSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3751732937228118396
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2875708587949133741}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8366359278979378342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2875708587949133741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab581faa3db66874296695a483c68699, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemMarkerChild: []
+  itemsToSpawn:
+  - {fileID: 7662042941674775751, guid: 6a90d34bc1abce4469e4766607bc612b, type: 3}
+  - {fileID: 5260515256166589044, guid: 43a930dd6223e834ba371fe44641650b, type: 3}
+  - {fileID: 5260515256166589044, guid: d31bbd5db5b0435499f19ee8ae83f30e, type: 3}
+  - {fileID: 5260515256166589044, guid: 414a515fc0120fd458ce5ad7746bd18e, type: 3}
+  Battery: {fileID: 5260515256166589044, guid: 90393adf4fbae1e479d1313a9e6fa934, type: 3}
+  NavSur: {fileID: 0}
+  minbatSpawn: 1
+  maxbatSpawn: 2
+  maxBatteries: 5

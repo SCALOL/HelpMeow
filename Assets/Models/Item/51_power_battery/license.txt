@@ -1,0 +1,11 @@
+Model Information:
+* title:	51 Power battery
+* source:	https://sketchfab.com/3d-models/51-power-battery-44e8260742494aad951b05dd5ba27140
+* author:	Aurorasean (https://sketchfab.com/Aurorasean)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "51 Power battery" (https://sketchfab.com/3d-models/51-power-battery-44e8260742494aad951b05dd5ba27140) by Aurorasean (https://sketchfab.com/Aurorasean) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
